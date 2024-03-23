@@ -1,5 +1,5 @@
 
-# Worle with Flet
+# Wordle with Flet
 
 🇪🇸 Este es un proyecto en mi formación Tokio School, el cual he decidido hacerlo de código abierto.
 🇺🇸 This is a project in my Tokio School training, which I have decided to make open source.
